@@ -27,14 +27,6 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 <br/>
 
-## Implementação 📦
-
-- O programa utiliza a biblioteca LiquidCrystal para controlar o display LCD. 📺
-- As perguntas são selecionadas aleatoriamente em matrizes predefinidas e as respostas dos jogadores são processadas usando entradas digitais. ✅
-- O feedback melódico é fornecido através da campainha usando notas musicais predefinidas. 🎶
-
-<br/>
-
 ## Instruções de Uso ✍🏻
 
 1. Conecte o Arduino ao display LCD 16x2 e aos botões de controle conforme as instruções do esquema de ligação fornecido.
@@ -44,6 +36,14 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 5. Acerte as perguntas para avançar nos níveis de dificuldade.
 6. Preste atenção ao LED vermelho, que pisca quando o tempo para responder a uma pergunta está acabando.
 7. Caso erre uma resposta, o jogo termina automaticamente.
+
+<br/>
+
+## Implementação 📦
+
+- O programa utiliza a biblioteca LiquidCrystal para controlar o display LCD. 📺
+- As perguntas são selecionadas aleatoriamente em matrizes predefinidas e as respostas dos jogadores são processadas usando entradas digitais. ✅
+- O feedback melódico é fornecido através da campainha usando notas musicais predefinidas. 🎶
 
 <br/>
 
