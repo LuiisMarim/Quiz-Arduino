@@ -67,22 +67,27 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Aplicações 🛠️
 - Jogo iniciado e primeira rodada completa. 💯
+- Excesso de pulos.🔚
+- Tempo Esgotado. ⏳
+- Resposta Errada.🔚
+- Jogo Completo.🛣️
+  
 <br/>
   <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_perguntas_facil.webm"/>
 <br/>
-- Excesso de pulos.🔚
+
 <br/>
   <img align = "center" alt="Pulos" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta.webm"/>
 <br/>
-- Tempo Esgotado. ⏳
+
 <br/>
   <img align = "center" alt="Acabou o Tempo" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado.webm"/>
 <br/>
-- Resposta Errada.🔚
+
 <br/>
   <img align = "center" alt="Errou a pergunta" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada.webm"/>
 <br/>
-- Jogo Completo.🛣️
+
 <br/>
   <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo.webm"/>
 <br/>
@@ -102,6 +107,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Autores ✒️  
 DevLuisMarim ⬇️ <div style="display: inline-block">
+DevStellaOli ⬇️ <div style="display: inline-block">
   
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LuiisMarim)
 
