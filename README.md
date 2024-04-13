@@ -99,10 +99,26 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 <br/>
 
 ## Jogo Completo 🔟
-  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com).gif"/>
+<br/>
+
+## Parte 1 ➡️
+<br/>
+  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(2).gif"/>
+<br/>
+
+## Parte 2 ➡️
+<br/>
+  <img align = "center" alt="Jogo Finalizado" src ="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(3).gif "/>
+<br/>
+
+## Parte 3 🔝
+<br/>
+  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(4).gif"/>
 <br/>
   
 <br/>
+
+  
 
   
 
