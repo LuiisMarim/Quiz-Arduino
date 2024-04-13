@@ -67,7 +67,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Limitações  ❌
 
-- A codificação não apresenta nenhuma opção para desistir do jogo durante sua execução. 😬
+- A codificação não oferece nenhuma opção para desistir do jogo durante sua execução. 😬
 
 <br/>
 
