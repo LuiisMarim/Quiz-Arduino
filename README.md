@@ -79,21 +79,25 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 <br/>
 
 <br/>
+
 ## Pulos 💨
   <img align = "center" alt="Pulos" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta%20(video-converter.com).gif"/>
 <br/>
 
 <br/>
+
 ## Acabou o Tempo 🔉
   <img align = "center" alt="Acabou o Tempo" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado%20(video-converter.com).gif"/>
 <br/>
 
 <br/>
+
 ## Resposta Errada ❌
   <img align = "center" alt="Errou a pergunta" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada%20(video-converter.com).gif"/>
 <br/>
 
 <br/>
+
 ## Jogo Completo 🔟
   <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com).gif"/>
 <br/>
