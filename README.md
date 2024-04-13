@@ -116,7 +116,9 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 <br/>
 
 ## Autores ✒️  
-DevLuisMarim ⬇️ <div style="display: inline-block">
+DevLuisMarim ⬇️ <div style="display:
+ inline-block">[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LuiisMarim)
+
 DevStellaOli ⬇️ <div style="display: inline-block">
   
 [![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LuiisMarim)
