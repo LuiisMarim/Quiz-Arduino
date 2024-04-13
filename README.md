@@ -64,9 +64,12 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 - Fim do Jogo por Resposta Incorreta ou por Excesso de pulos: Se o jogador errar uma resposta, ou pular questões mais de três vezes, ele perde o jogo automaticamente.🔚
 
 <br/>
-## Aplicações
+
+## Aplicações 🛠️
 - Jogo iniciado e primeira rodada completa
   <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_perguntas_facil.webm"/>
+
+<br/>  
   
 
 
