@@ -73,24 +73,28 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 - Jogo Completo.🛣️
   
 <br/>
-<p> Inicio </p>
+## Início 
   <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/gif.gif"/>
 <br/>
 
 <br/>
-  <img align = "center" alt="Pulos" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta.webm"/>
+## Pulos
+  <img align = "center" alt="Pulos" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta%20(video-converter.com).gif"/>
 <br/>
 
 <br/>
-  <img align = "center" alt="Acabou o Tempo" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado.webm"/>
+## Acabou o Tempo
+  <img align = "center" alt="Acabou o Tempo" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado%20(video-converter.com).gif"/>
 <br/>
 
 <br/>
-  <img align = "center" alt="Errou a pergunta" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada.webm"/>
+## Resposta Errada
+  <img align = "center" alt="Errou a pergunta" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada%20(video-converter.com).gif"/>
 <br/>
 
 <br/>
-  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo.webm"/>
+## Jogo Completo
+  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com).gif"/>
 <br/>
   
 
