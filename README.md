@@ -73,7 +73,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 - Jogo Completo.🛣️
   
 <br/>
-  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_perguntas_facil.webm"/>
+  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/gif.gif"/>
 <br/>
 
 <br/>
