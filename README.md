@@ -66,25 +66,25 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 <br/>
 
 ## Aplicações 🛠️
-- Jogo iniciado e primeira rodada completa
+- Jogo iniciado e primeira rodada completa. 💯
 <br/>
   <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_perguntas_facil.webm"/>
 <br/>
-- Excesso de pulos
+- Excesso de pulos.🔚
 <br/>
-  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta.webm"/>
+  <img align = "center" alt="Pulos" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta.webm"/>
 <br/>
-- Tempo Esgotado
+- Tempo Esgotado. ⏳
 <br/>
-  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado.webm"/>
+  <img align = "center" alt="Acabou o Tempo" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado.webm"/>
 <br/>
-- Resposta Errada
+- Resposta Errada.🔚
 <br/>
-  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada.webm"/>
+  <img align = "center" alt="Errou a pergunta" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada.webm"/>
 <br/>
-- Jogo Completo
+- Jogo Completo.🛣️
 <br/>
-  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo.webm"/>
+  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo.webm"/>
 <br/>
   
 
