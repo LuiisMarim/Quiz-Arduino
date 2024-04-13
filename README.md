@@ -102,7 +102,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
   <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com).gif"/>
 <br/>
   
-
+<br/>
 
   
 
