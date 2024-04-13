@@ -67,6 +67,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Aplicações 🛠️
 - Jogo iniciado e primeira rodada completa
+<br/>
   <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_perguntas_facil.webm"/>
 
 <br/>  
