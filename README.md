@@ -74,49 +74,28 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
   
 <br/>
 
-## Início ✔️
-  <img align = "center" alt="Inicio" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/gif.gif"/>
-<br/>
+|                        |                        |
+|------------------------|------------------------|
+| <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/gif.gif" width="400">  | <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta%20(video-converter.com).gif" width="400">  |
+| <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado%20(video-converter.com).gif" width="400"> | <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada%20(video-converter.com).gif" width="400"> |
 
-<br/>
 
-## Pulos 💨
-  <img align = "center" alt="Pulos" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta%20(video-converter.com).gif"/>
-<br/>
-
-<br/>
-
-## Acabou o Tempo 🔉
-  <img align = "center" alt="Acabou o Tempo" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado%20(video-converter.com).gif"/>
-<br/>
-
-<br/>
-
-## Resposta Errada ❌
-  <img align = "center" alt="Errou a pergunta" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada%20(video-converter.com).gif"/>
-<br/>
-
-<br/>
-
-## Jogo Completo 🔟
+## Jogo Completo 🕹️
 <br/>
 
 ## Parte 1 ➡️
 <br/>
-  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(2).gif"/>
-<br/>
+<img align="center" alt="Jogo Finalizado" src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(2).gif" width="300" />
 
 ## Parte 2 ➡️
 <br/>
-  <img align = "center" alt="Jogo Finalizado" src ="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(3).gif "/>
+<img align="center" alt="Jogo Finalizado" src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(3).gif" width="300" />
+
+## Parte 3 ➡️
+<br/>
+<img align="center" alt="Jogo Finalizado" src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(4).gif" width="300" />
 <br/>
 
-## Parte 3 🔝
-<br/>
-  <img align = "center" alt="Jogo Finalizado" src = "https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(4).gif"/>
-<br/>
-  
-<br/>
 
   
 
