@@ -66,11 +66,10 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 <br/>
 
 ## Aplicações 🛠️
-- Jogo iniciado e primeira rodada completa. 💯
-- Excesso de pulos.🔚
-- Tempo Esgotado. ⏳
-- Resposta Errada.🔚
-- Jogo Completo.🛣️
+1. Jogo iniciado. ▶️
+2. Excesso de pulos.🔚
+3. Tempo Esgotado. ⏳
+4. Resposta Errada. ❌
   
 <br/>
 
@@ -78,27 +77,20 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 |------------------------|------------------------|
 | <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/gif.gif" width="400">  | <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pular_pergunta%20(video-converter.com).gif" width="400">  |
 | <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_tempo_esgotado%20(video-converter.com).gif" width="400"> | <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_pergunta_errada%20(video-converter.com).gif" width="400"> |
-
+<br/>
 
 ## Jogo Completo 🕹️
 <br/>
 
-## Parte 1 ➡️
-<br/>
-<img align="center" alt="Jogo Finalizado" src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(2).gif" width="300" />
+|                      |                      |
+|----------------------|----------------------|
+| ![Parte 1](https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(2).gif)  | ![Parte 2](https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(3).gif) |
+| ![Parte 3](https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(4).gif) | |
 
-## Parte 2 ➡️
-<br/>
-<img align="center" alt="Jogo Finalizado" src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(3).gif" width="300" />
-
-## Parte 3 ➡️
-<br/>
-<img align="center" alt="Jogo Finalizado" src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/video_jogo_completo%20(video-converter.com)%20(4).gif" width="300" />
-<br/>
 
 
   
-
+<br/>
   
 
 
