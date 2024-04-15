@@ -18,7 +18,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 - 1 resistor de 1 K Ω ⚡
 
 <br/>
-
+<br/>
 
 
 ## Tecnologias Utilizadas 🎯
@@ -65,13 +65,21 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 <br/>
 
-## Aplicações 🛠️
+## Limitações  ❌
+
+- A codificação não oferece nenhuma opção para desistir do jogo durante sua execução. 😬
+
+<br/>
+
+## Comportamento 🎮
 1. Jogo iniciado. ▶️
 2. Excesso de pulos.🔚
 3. Tempo Esgotado. ⏳
 4. Resposta Errada. ❌
   
 <br/>
+
+
 
 |                        |                        |
 |------------------------|------------------------|
@@ -92,15 +100,6 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
   
 <br/>
   
-
-
-
-
-## Limitações  ❌
-
-- A codificação não oferece nenhuma opção para desistir do jogo durante sua execução. 😬
-
-<br/>
 
 ## Autores ✒️  
 DevLuisMarim ⬇️ <div style="display:
