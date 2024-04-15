@@ -107,6 +107,6 @@ DevLuisMarim ⬇️ <div style="display:
 
 DevStellaOli ⬇️ <div style="display: inline-block">
   
-[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LuiisMarim)
+[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/StellaOli)
 
 </div>
