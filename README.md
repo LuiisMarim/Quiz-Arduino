@@ -8,6 +8,8 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
   <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/circuitoTk.jpeg" alt="ckt" align="right" width="400" />
 
 
+<br/>
+
 - Arduíno Uno 💾
 - 4 Botões 🔘
 - 1 LED Vermelho 🚨 
