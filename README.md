@@ -5,7 +5,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Componentes Utilizados ⚙️
 
-  <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/circuitoTk.jpeg" alt="ckt" align="right" width="400" />
+  <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/circuitoTk.jpeg" alt="ckt" align="right" width="500" />
 
 
 <br/>
@@ -44,8 +44,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 ## Implementação 📦
 
 - O programa utiliza a biblioteca LiquidCrystal para controlar o display LCD. 📺
-- As perguntas são selecionadas aleatoriamente em matrizes predefinidas e as respostas dos jogadores são processadas usando entradas digitais. ✅
-- O feedback melódico é fornecido através da campainha usando notas musicais predefinidas. 🎶
+  
 
 <br/>
 
