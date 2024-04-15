@@ -31,7 +31,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Instruções de Uso ✍🏻
 
-1. Conecte o Arduino ao display LCD 16x2 e aos botões de controle conforme as instruções do esquema de ligação fornecido.
+1. Conecte o Arduino ao display LCD 16x2 e aos botões de controle conforme as instruções do [equema de ligação](https://www.tinkercad.com/things/iw58ru8nLq2-spectacular-leelo-migelo/editel?sharecode=g01ri-XkKCIuEiAiqterjp5FfSp0yCvkwVWGO0WQwnc) fornecido.
 2. Carregue o código do jogo no Arduino.
 3. Inicie o jogo utilizando o botão da entrada digital '2' e responda às perguntas com "SIM" utilizando o botão da entrada digital "10" e "NÃO" utilizando o botão da entrada digital  '9'.
 4. Para pular uma questão utilize o botão da entrada digital '8'.
