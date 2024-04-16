@@ -5,7 +5,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Componentes Utilizados ⚙️
 
-  <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/circuitoTk.jpeg" alt="ckt" align="right" width="500" />
+  <img src="https://github.com/LuiisMarim/Quiz-Arduino/blob/main/img/circuitoTk.jpeg" alt="ckt" align="right" width="400" />
 
 
 <br/>
@@ -19,7 +19,6 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 - 1 resistor de 220 Ω ⚡
 - 1 resistor de 1 K Ω ⚡
 
-<br/>
 <br/>
 
 
