@@ -96,9 +96,6 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 
 ## Autores ✒️  
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
-
 DevLuisMarim ⬇️ <div style="display:
  inline-block">[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LuiisMarim)
 
