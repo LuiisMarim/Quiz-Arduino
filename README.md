@@ -37,14 +37,7 @@ Este projeto consiste em um jogo de perguntas desenvolvido para um Arduino com u
 4. Para pular uma questão utilize o botão da entrada digital '8'.
 5. Acerte as perguntas para avançar nos níveis de dificuldade.
 6. Preste atenção ao LED vermelho, que pisca quando o tempo para responder a uma pergunta está acabando.
-7. Caso erre uma resposta, o jogo termina automaticamente.
-
-<br/>
-
-## Implementação 📦
-
-- O programa utiliza a biblioteca LiquidCrystal para controlar o display LCD. 📺
-  
+7. Caso erre uma resposta, o jogo termina automaticamente.  
 
 <br/>
 
